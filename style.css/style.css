@@ -1,0 +1,30 @@
+/* .navbar {} */
+
+.header {
+    background-image: url(../images/header.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-link{
+    color: white;
+}
+.h{
+    margin-top: 245px;
+    color: #FFFFFF;
+}
+.navbar-toggler{
+    color: white;
+    height: auto;
+    background-color: white;
+}
+.header__main .btn{
+    margin-bottom: 125px;
+}
+.ajralib{
+    background-color: #114E86;
+    color: white;
+}
+.color{
+    color: white;
+}
